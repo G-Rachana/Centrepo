@@ -1,7 +1,9 @@
 package central;
 
 import java.awt.EventQueue;
-
+//rrffjhnbcjhnbhc
+//hbchnbbhvvbgb
+//mcjjbhgbfhfcgbr
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
